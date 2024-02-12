@@ -1,4 +1,4 @@
-package notebook.util;
+package mynotebook.util;
 
 import java.io.File;
 
